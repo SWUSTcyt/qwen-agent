@@ -25,7 +25,6 @@
 1. **克隆项目**
 ```bash
 git clone <your-repo-url>
-cd mcp-a2a
 ```
 
 2. **安装依赖**
