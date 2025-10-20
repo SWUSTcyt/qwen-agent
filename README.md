@@ -145,13 +145,6 @@ mcp-a2a/
 - [高德地图](https://lbs.amap.com/) - 地图服务
 - [ModelScope](https://mcp.api-inference.modelscope.net/) - MCP服务
 
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 提交 [Issue](https://github.com/your-username/mcp-a2a/issues)
-- 发送邮件至 your-email@example.com
-
 ---
 
 ⭐ 如果这个项目对您有帮助，请给它一个星标！
